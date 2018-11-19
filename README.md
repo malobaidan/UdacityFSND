@@ -13,14 +13,7 @@ This is the first project of Udacity full stack course Nanodegree, in this proje
 
 4- newsdata.sql file.
 
-#### How to run:
 
-<<<<<<< HEAD
-... Navigate to the diractory and open the terminal then run: $vagrant up, then $vagrant ssh,
-... navigate to the shared folder by cd /vagrant.
-... To load the data, use the terminal command psql -d news -f newsdata.sql to connect a database and run the necessary SQL statements.
-... then run the command in the terminal $python3 articals.py
-=======
 ``` Navigate to the diractory and open the terminal then run: $vagrant up, then $vagrant ssh,```
 
 ``` navigate to the shared folder by cd /vagrant```
@@ -28,13 +21,9 @@ This is the first project of Udacity full stack course Nanodegree, in this proje
 ```To load the data, use the terminal command psql -d news -f newsdata.sql to connect a database and run the necessary SQL statements```
 
 ``` then run the command in the terminal $python3 articals.py```
->>>>>>> 10edc62d078c4300c4bdff597ca02d056d5403ac
+
 
 #### database tables:
 - authors.
 - articals.
-<<<<<<< HEAD
 - log.
-=======
-- log.
->>>>>>> 10edc62d078c4300c4bdff597ca02d056d5403ac
