@@ -20,6 +20,6 @@ How to run:
 ... then run the command in the terminal $python3 articals.py
 
 the database has three tables:
--authors.
--articals.
--log.
+- authors.
+- articals.
+- log.
