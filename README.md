@@ -13,6 +13,7 @@ This is the first project of Udacity full stack course Nanodegree, in this proje
 
 4- newsdata.sql file.
 
+#### How to run:
 
 ``` Navigate to the diractory and open the terminal then run: $vagrant up, then $vagrant ssh,```
 
